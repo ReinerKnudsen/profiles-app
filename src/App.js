@@ -1,6 +1,7 @@
 //import logo from './logo.svg';
 import './App.css';
-import Gallery from './Gallery.js';
+import Gallery from './Gallery';
+
 
 function App() {
   return(
